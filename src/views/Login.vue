@@ -504,7 +504,7 @@ const qqLogin = async () => {
   height: calc(100vh);
   // 把背景图像扩展至足够大，以使背景图像完全覆盖背景区域。
   background-size: cover;
-  background: url("../assets/login_bg.jpg");
+  //background: url("../assets/login_bg.jpg");
   display: flex;
   .bg {
     flex: 1;
